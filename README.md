@@ -1,4 +1,4 @@
-# go-echo-GORM-postgres
+# go-echo-GORM-postgres with Docker
 
 ## Start Docker postgres
 
